@@ -34,4 +34,7 @@ First for loop indicates rows and Second for loop indicates columns
 
 And using if condition to get triangle shape 
 
+![output](https://user-images.githubusercontent.com/84003435/118090388-1f5df280-b3e7-11eb-8735-757dab8e74eb.PNG)
+
+
 
