@@ -26,3 +26,12 @@ The end.
 
 
 # Pattern printing using Java Language
+In this I am creating Isosceles Triangle Shape
+
+I am using For loop here
+
+First for loop indicates rows and Second for loop indicates columns
+
+And using if condition to get triangle shape 
+
+
