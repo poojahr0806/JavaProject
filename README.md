@@ -11,3 +11,8 @@ Creating object of Emp class.
 Creating Switch case for each choice.In each choice is is calling specific method mentioned.
 Using do -while loop will continue the task repeatedly.
 The end.
+
+
+
+
+# Pattern printing using Java Language
